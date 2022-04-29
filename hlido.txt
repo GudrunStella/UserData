@@ -1,0 +1,4 @@
+1,Anna,Anna@lala.is,38,Married
+2,Askur,askur@lala.is,37,Single
+3,Bárður Ingi Helgason,bardur@lala.is,37,Married
+4,,,,

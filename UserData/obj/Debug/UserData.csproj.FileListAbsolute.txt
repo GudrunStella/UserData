@@ -1,0 +1,13 @@
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\bin\Debug\Database.mdf
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\bin\Debug\Database_log.ldf
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\bin\Debug\UserData.exe.config
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\bin\Debug\UserData.exe
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\bin\Debug\UserData.pdb
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\obj\Debug\UserData.csproj.AssemblyReference.cache
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\obj\Debug\UserData.csproj.SuggestedBindingRedirects.cache
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\obj\Debug\UserData.Form1.resources
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\obj\Debug\UserData.Properties.Resources.resources
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\obj\Debug\UserData.csproj.GenerateResource.cache
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\obj\Debug\UserData.csproj.CoreCompileInputs.cache
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\obj\Debug\UserData.exe
+C:\Users\space\Documents\vor2022\c_sharp\UserData\UserData\obj\Debug\UserData.pdb
