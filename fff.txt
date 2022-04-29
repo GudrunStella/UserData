@@ -1,6 +1,0 @@
-1, fff, ggg, 99, Married
-
-2, ggg, ggg, 99, Married
-
-3, , , , 
-
