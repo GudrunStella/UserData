@@ -1,0 +1,2 @@
+1,notandi b,notandib@notandi.is,99,Single
+2,notandi c,notandic@notandi.is,88,Married
